@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Schulte</string>
+    <string name="start">开始</string>
+    <string name="random">随机</string>
+    <string name="schulte3x3">3X3</string>
+    <string name="schulte4x4">4X4</string>
+    <string name="schulte5x5">5X5</string>
+</resources>
